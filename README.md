@@ -10,6 +10,7 @@ This project is designed to showcase a clean and user-friendly shopping experien
 
 👉 View Deployed Project on Netlify
 
+https://e-commerce-product-page-05.netlify.app/
 
 ---
 
@@ -17,12 +18,13 @@ This project is designed to showcase a clean and user-friendly shopping experien
 
 🔗 Project Source Code on GitHub
 
+https://github.com/R-Selvan/product-page.git
 
 ---
 
 📧 Contact Information
 
-Developer: R.K. Selvan
+Developer: R.K.Selvan
 Email: rkselvan2006@gmail.com
 
 
@@ -106,6 +108,7 @@ No backend or server setup required.
 
 📸 Screenshots
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-14 104335" src="https://github.com/user-attachments/assets/d2911fc0-d171-49b3-b225-eaa700fcf812" />
 
 
 
@@ -114,6 +117,8 @@ No backend or server setup required.
 
 
 
+
+![Uploading Screenshot 2025-10-14 120037.png…]()
 
 
 
